@@ -38,7 +38,7 @@ function NavBar() {
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto navlinks">
               <Nav.Link as={Link} to="/logIn" style={navStyling}>
-                LogIn
+                Log In
               </Nav.Link>
               <Nav.Link as={Link} to="/signUp" style={navStyling}>
                 Sign Up
