@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/superpass/static/css/main.220b0486.css",
+    "main.js": "/superpass/static/js/main.a8d50126.js",
+    "static/js/787.26f7a8f7.chunk.js": "/superpass/static/js/787.26f7a8f7.chunk.js",
+    "static/media/background.png": "/superpass/static/media/background.b7a5d4fa79224580d19d.png",
+    "static/media/logo.png": "/superpass/static/media/logo.161a3e438fdcf5fda0c1.png",
+    "static/media/main.png": "/superpass/static/media/main.10b37bc71f5c710a874e.png",
+    "index.html": "/superpass/index.html",
+    "main.220b0486.css.map": "/superpass/static/css/main.220b0486.css.map",
+    "main.a8d50126.js.map": "/superpass/static/js/main.a8d50126.js.map",
+    "787.26f7a8f7.chunk.js.map": "/superpass/static/js/787.26f7a8f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.220b0486.css",
+    "static/js/main.a8d50126.js"
+  ]
+}
